@@ -14,7 +14,7 @@ public class Main extends Application {
 			VBox root = new VBox();
 			root.getChildren().add(new Label("Matthew's label"));
 
-			root.getChildren().add(new Label("Sydney branch"));
+			root.getChildren().add(new Label("Matthews branch"));
 
 			root.getChildren().add(new Label("Nathaly's branch"));
 
