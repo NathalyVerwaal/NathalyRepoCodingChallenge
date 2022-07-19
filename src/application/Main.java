@@ -12,7 +12,7 @@ public class Main extends Application {
 	public void start(Stage primaryStage) {
 		try {
 			VBox root = new VBox();
-			root.getChildren().add(new Label("Sydney's label"));
+			root.getChildren().add(new Label("Matthew's label"));
 
 			root.getChildren().add(new Label("Sydney branch"));
 
